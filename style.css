@@ -1,0 +1,44 @@
+.nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+.travel_mainDiv {
+    border: 1px solid #C7C7C7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding-left: 6px;
+    padding-right: 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: darkorange;
+}
