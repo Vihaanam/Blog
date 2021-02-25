@@ -42,3 +42,20 @@
 .movie_text span {
     color: darkorange;
 }
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+#contact iframe {
+    margin-top: 30px;
+}
+
+#contact h3 {
+    font-family: 'Stick', sans-serif;
+}
